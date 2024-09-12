@@ -1,0 +1,22 @@
+Name:										Section:
+
+
+#1 – Counting Occurrences of a Specific Number
+1.	Initialize an array numbers with [1, 3, 7, 1, 7, 5, 1, 9].
+2.	Write pseudocode to count how many times the number 1 appears in the array.
+3.	Print the count.
+Output is: 3
+
+
+#2 – Finding the Second Largest Number
+1.	Initialize an array numbers with [12, 35, 1, 10, 34, 1].
+2.	Write pseudocode to find the second largest number in the array.
+3.	Print the second largest number.
+Output is: 34
+
+
+#3 – Removing duplicates from an Array
+1.	Initialize an array numbers with [1, 2, 2, 3, 4, 4, 5].
+2.	Write pseudocode to remove any duplicate elements from the array, so that each number appears only once.
+3.	Print the updated array.
+Output is: [1,2,3,4,5]
